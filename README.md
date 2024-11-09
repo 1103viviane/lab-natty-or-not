@@ -1,10 +1,11 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto: Importância do Planejamento Financeiro
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Descrever a importância do planejamento financeiro e dicas de como iniciar
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa - Gemini - para definição do texto
+
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
